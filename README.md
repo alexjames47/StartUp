@@ -5,5 +5,7 @@ Do you wanna play bingo with your friends? Do you wanna create and compare your 
 ### Play Bingo with Friends
 ## Sketch
 ### Bingo Card Creation
+![Bingo Creation](https://github.com/alexjames47/StartUp/blob/main/CreationPage.png)
 ### Bingo Card Playing
+![Bingo Playing](https://github.com/alexjames47/StartUp/blob/main/PlayingPage.png)
 ### Login Page
