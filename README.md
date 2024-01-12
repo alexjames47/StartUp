@@ -25,7 +25,7 @@ Bingo cards created are stored and can be edited later
 ### Technologies
 I am going to use the required technologies in the following ways.
 
-**HTML** - Uses correct HTML structure for application. atleast Two HTML pages. One for login and one for creating a bingo card and one for playing Bingo. Hyperlinks to profiles
+**HTML** - Uses correct HTML structure for application. atleast 3 HTML pages. One for login and one for creating a bingo card and one for playing Bingo. Hyperlinks to profiles
 
 **CSS** - Application styling that looks good on different screen sizes, uses good whitespace, color choice and contrast.
 
