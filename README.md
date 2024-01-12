@@ -29,15 +29,14 @@ I am going to use the required technologies in the following ways.
 
 **CSS** - Application styling that looks good on different screen sizes, uses good whitespace, color choice and contrast.
 
-**JavaScript** - Provides login, choice display, applying votes, display other users votes, backend endpoint calls.
+**JavaScript** - Provides login, bingo card creation, covering squares, display other users bingo cards, backend endpoint calls.
 
 **Service** - Backend service with endpoints for:
 login
-retrieving choices
-submitting votes
-retrieving vote status
-DB/Login - Store users, choices, and votes in database. Register and login users. Credentials securely stored in database. Can't vote unless authenticated.
+retrieving bingo cards
+Marking Squares
+DB/Login - Store users, marks, and bingos in database. Register and login users. Credentials securely stored in database. Can't chat unless authenticated.
 
-**WebSocket** - As each user votes, their votes are broadcast to all other users.
+**WebSocket** - As each user gets bingos, their bingos are broadcast to all other users.
 
 **React** - Application ported to use the React web framework.
