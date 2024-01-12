@@ -3,6 +3,6 @@
 ## Pitch
 ### Play Bingo with Friends
 ## Sketch
-### Bingo Card creation
+### Bingo Card Creation
 ### Bingo Card Playing
 ### Login Page
