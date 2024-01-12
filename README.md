@@ -1,5 +1,5 @@
 # StartUp
-### notes for CS260 found in notes.md
+### notes for CS260 found in [notes.md](https://github.com/alexjames47/StartUp/blob/main/notes.md)
 ## Pitch
 ### Play Bingo with Friends
 ## Sketch
