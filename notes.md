@@ -5,4 +5,6 @@
 ## 1/12/2024
 ### pulling reguarlying is important if working with multiple people
 ### conflicts can still be resolved by merging
-
+## 1/18/2024
+### A secure connection is not only important for money transactions but for protecting personal information
+### Websites are cheaper that I thought, except for .gold sites starting at $101
