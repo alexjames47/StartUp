@@ -40,3 +40,16 @@ DB/Login - Store users, marks, and bingos in database. Register and login users.
 **WebSocket** - As each user gets bingos, their bingos are broadcast to all other users.
 
 **React** - Application ported to use the React web framework.
+
+## HTML deliverable
+
+➡️ The following is an example of the required information for the `Startup HTML` deliverable
+
+For this deliverable I built out the structure of my application using HTML.
+
+- **HTML pages** - Seven HTML pages that represent the ability to login, Create Bingo Cards, Create Rooms, Join Rooms, A home page, A profile page and a Play Bingo page
+- **Links** - The login page automatically links to the home page. The home page contains links to create cards, rooms and join rooms.
+- **Text** - Each bingo square is represented by text in a table
+- **Images** - Bingo Card image imported to the HomePage
+- **DB/Login** - Input box and submit button for login and password. The Created Bingo Cards represent data pulled from the database.
+- **WebSocket** - The bingo cards showing and chat box on the play pages in the rooms.
