@@ -1,4 +1,10 @@
 # This is Alex's Notes
+
+## 1/29/2024
+### iframe is a useful element for showing youtube videos
+### table is a great way to make bingo cards
+### style can be used to give lines to your tables 
+
 ## 1/18/2024
 ### A secure connection is not only important for money transactions but for protecting personal information
 ### Websites are cheaper that I thought, except for .gold sites starting at $101
