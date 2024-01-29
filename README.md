@@ -43,8 +43,6 @@ DB/Login - Store users, marks, and bingos in database. Register and login users.
 
 ## HTML deliverable
 
-➡️ The following is an example of the required information for the `Startup HTML` deliverable
-
 For this deliverable I built out the structure of my application using HTML.
 
 - **HTML pages** - Seven HTML pages that represent the ability to login, Create Bingo Cards, Create Rooms, Join Rooms, A home page, A profile page and a Play Bingo page
