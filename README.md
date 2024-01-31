@@ -5,13 +5,13 @@ Do you wanna play bingo with your friends? Do you wanna create and compare your 
 ### Play Bingo with Friends
 ## Sketch
 ### Bingo Card Creation
-![Bingo Creation](https://github.com/alexjames47/StartUp/blob/main/CreationPage.png)
+![Bingo Creation](https://github.com/alexjames47/StartUp/blob/main/ElevatorPitchPictures/CreationPage.png)
 ### Bingo Card Playing
-![Bingo Playing](https://github.com/alexjames47/StartUp/blob/main/PlayingPage.png)
+![Bingo Playing]([https://github.com/alexjames47/StartUp/blob/main/PlayingPage.png](https://github.com/alexjames47/StartUp/blob/main/ElevatorPitchPictures/PlayingPage.png))
 ### Login Page
-![Login](https://github.com/alexjames47/StartUp/blob/main/BigNoLoginPage.png)
+![Login]([https://github.com/alexjames47/StartUp/blob/main/BigNoLoginPage.png](https://github.com/alexjames47/StartUp/blob/main/ElevatorPitchPictures/BigNoLoginPage.png))
 ### Home Page
-![Home](https://github.com/alexjames47/StartUp/blob/main/BigNoHomePage.png)
+![Home]([https://github.com/alexjames47/StartUp/blob/main/BigNoHomePage.png](https://github.com/alexjames47/StartUp/blob/main/ElevatorPitchPictures/BigNoHomePage.png))
 
 ### Key features
 Secure login over HTTPS - BigNo Accounts
