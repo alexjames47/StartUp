@@ -14,3 +14,45 @@
     font-size: 20px;
     font-weight: bold;
   }
+  .chat-container {
+    max-width: 400px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .chat-header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  .chat-messages {
+    padding: 10px;
+    overflow-y: auto;
+    max-height: 300px;
+  }
+  .message {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+  }
+  .message.sender {
+    background-color: #4CAF50;
+    color: white;
+    align-self: flex-end;
+  }
+  .message.receiver {
+    background-color: #ddd;
+    color: black;
+    align-self: flex-start;
+  }
+  .chat-input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: none;
+    border-top: 1px solid #ccc;
+    outline: none;
+  }

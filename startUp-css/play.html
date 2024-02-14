@@ -70,7 +70,33 @@
         </div> 
         <hr /><span class="text-reset"></span><br />
 
-        
+        <div class="chat-container">
+          <div class="chat-header">
+            Chat Room
+          </div>
+          <div class="chat-messages" id="chatMessages">
+            <!-- Messages will be appended here -->
+          </div>
+          <input type="text" class="chat-input" placeholder="Type your message..." onkeydown="sendMessage(event)">
+        </div>
+
+        <script>
+          function sendMessage(event) {
+            if (event.key === 'Enter') {
+              var inputField = event.target;
+              var messageText = inputField.value.trim();
+              if (messageText !== '') {
+                var chatMessages = document.getElementById('chatMessages');
+                var messageElement = document.createElement('div');
+                messageElement.classList.add('message', 'sender');
+                messageElement.textContent = messageText;
+                chatMessages.appendChild(messageElement);
+                inputField.value = '';
+                chatMessages.scrollTop = chatMessages.scrollHeight; // Scroll to bottom
+              }
+            }
+          }
+        </script>
         
         <hr /><span class="text-reset"></span><br />
         <iframe width="300" height="300" src="https://www.youtube.com/embed/GoNkQOKi1gY?start=46" 
