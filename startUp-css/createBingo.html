@@ -47,20 +47,34 @@
               <input type="text" id="BingoSquares" placeholder="Enter Text Here" />
               <button type="submit">Submit</button>
             </form>
-            <table>
+            <input type="text" id="textInput" onkeydown="handleKeyPress(event)" placeholder="Type Here">
+            <table id="dynamic-table">
+              <thead>
                 <tr>
-                    <td>Raw</td>
+                  <th>Bingo Squares</th>
                 </tr>
-                <tr>
-                    <td>Burnt</td>
-                </tr>
-                <tr>
-                    <td>Gross</td>
-                </tr>
-                <tr>
-                    <td>Brand Shilling</td>
-                </tr>
+              </thead>
+              <tbody id="table-body">
+              </tbody>
             </table>
+            
+            <script>
+              function handleKeyPress(event) {
+                if (event.key === 'Enter') {
+                  var value = event.target.value;
+                  addToTable(value);
+                  event.target.value = ''; // Clear input after adding to table
+                }
+              }
+            
+              function addToTable(value) {
+                var tableBody = document.getElementById("table-body");
+                var newRow = tableBody.insertRow(tableBody.rows.length);
+                var cell = newRow.insertCell(0);
+                cell.textContent = value;
+              }
+            </script>
+            
             <button type="randomize">Generate a Random Card</button>
             <hr /><span class="text-reset"></span><br />
             <div class="bingo-card">
