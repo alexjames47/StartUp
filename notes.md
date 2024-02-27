@@ -10,6 +10,8 @@
 ### .filter(v => v.match(/a/i)); will do the same but not be case sensitive
 ### <ul> is the html tag for an unordered list
 ### const f = (x) => {} ; function f(x) {} ; const f = function(x) {}; are all vaild JavaScript functions
+### <script>1+1</script>;  <script src='main.js' />;  <div onclick='1+1' /> are all valid ways to include Javascript in HTML
+### { n:1 } is a valid JavaScript object
 
 
 ## 1/29/2024
