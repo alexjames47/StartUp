@@ -4,6 +4,8 @@
 ### I'm back with a vengance studying for the midterm
 ### CSS can be used to load fonts from google
 ### The column-revese flex direction will make the elements in an item appear in reverse order
+### padding puts space around the content of selected elements
+
 
 ## 1/29/2024
 ### iframe is a useful element for showing youtube videos
