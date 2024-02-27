@@ -13,6 +13,10 @@
 ### <script>1+1</script>;  <script src='main.js' />;  <div onclick='1+1' /> are all valid ways to include Javascript in HTML
 ### { n:1 } is a valid JavaScript object
 ### DOM textContent Property sets the child text for an element
+### <a href='https://c.com'>x</a> actually makes a link
+### div.header { color: blue; } would turn the text Blue because BYU is in a div element with the header class
+### {"x":3} is valid JSON
+
 
 
 ## 1/29/2024
