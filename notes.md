@@ -12,6 +12,7 @@
 ### const f = (x) => {} ; function f(x) {} ; const f = function(x) {}; are all vaild JavaScript functions
 ### <script>1+1</script>;  <script src='main.js' />;  <div onclick='1+1' /> are all valid ways to include Javascript in HTML
 ### { n:1 } is a valid JavaScript object
+### DOM textContent Property sets the child text for an element
 
 
 ## 1/29/2024
