@@ -16,6 +16,9 @@
 ### <a href='https://c.com'>x</a> actually makes a link
 ### div.header { color: blue; } would turn the text Blue because BYU is in a div element with the header class
 ### {"x":3} is valid JSON
+### chmod +x deploy.sh makes a script executable
+### c260.cs.byu.edu is a DNS subdomain
+### the CNAME DNS record type should be used to point to another DNS record
 
 
 
