@@ -5,6 +5,9 @@
 ### CSS can be used to load fonts from google
 ### The column-revese flex direction will make the elements in an item appear in reverse order
 ### padding puts space around the content of selected elements
+### CSS Box Model = Margin, Border, padding, content
+### .filter(v => v.match(/a/)); will return a list that filters to onlt items that have a lowercase a
+### .filter(v => v.match(/a/i)); will do the same but not be case sensitive
 
 
 ## 1/29/2024
