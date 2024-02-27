@@ -9,6 +9,7 @@
 ### .filter(v => v.match(/a/)); will return a list that filters to onlt items that have a lowercase a
 ### .filter(v => v.match(/a/i)); will do the same but not be case sensitive
 ### <ul> is the html tag for an unordered list
+### const f = (x) => {} ; function f(x) {} ; const f = function(x) {}; are all vaild JavaScript functions
 
 
 ## 1/29/2024
