@@ -8,6 +8,7 @@
 ### CSS Box Model = Margin, Border, padding, content
 ### .filter(v => v.match(/a/)); will return a list that filters to onlt items that have a lowercase a
 ### .filter(v => v.match(/a/i)); will do the same but not be case sensitive
+### <ul> is the html tag for an unordered list
 
 
 ## 1/29/2024
