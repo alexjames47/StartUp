@@ -1,5 +1,9 @@
 # This is Alex's Notes
 
+## 2/26/2024
+### I'm back with a vengance studying for the midterm
+### CSS can be used to load fonts from google
+
 ## 1/29/2024
 ### iframe is a useful element for showing youtube videos
 ### table is a great way to make bingo cards
